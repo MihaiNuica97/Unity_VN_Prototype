@@ -1,0 +1,18 @@
+Saki::
+Hi, I am Saki!
+This is my normal face!
+<angry>
+This is my angry face
+<curious>
+This is my curious face
+<happy>
+This is my happy face
+<surprised>
+This is my surprised face
+<worried>
+This is my worried face
+<happy>
+Markus::
+I just changed my name!
+<angry>
+I don't like this name >:(
